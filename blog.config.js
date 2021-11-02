@@ -1,9 +1,9 @@
 const BLOG = {
-  title: 'orangeskr',
+  title: 'summer',
   author: 'cheng li',
   email: '1185479903@qq.com',
   link: 'https://nobelium.vercel.app',
-  description: '暂时是个空白的页面',
+  description: '夏末造型',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
